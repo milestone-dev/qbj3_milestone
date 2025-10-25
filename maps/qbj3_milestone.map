@@ -260,6 +260,7 @@
 "_message" "fn_respwawn_entities"
 "target" "fn_kill_all_mobs"
 "target2" "fn_respawn_mobs"
+"target3" "rn_reset_shrines"
 }
 // entity 5
 {
@@ -274,7 +275,7 @@
 // entity 6
 {
 "classname" "trigger_relay"
-"origin" "-628 -316 40"
+"origin" "-604 -300 40"
 "targetname" "fn_respawn_mobs_2"
 "_message" "fn_respawn_mobs_2"
 "target" "all_mobs"
@@ -674,7 +675,7 @@
 // entity 52
 {
 "classname" "target_items"
-"origin" "-160 -152 48"
+"origin" "-272 -536 48"
 "spawnflags" "4"
 "targetname" "fn_item_level_acquire_increment"
 }
@@ -2357,7 +2358,7 @@
 // entity 154
 {
 "classname" "target_lock"
-"origin" "-536 -152 40"
+"origin" "-592 -112 40"
 "targetname" "fn_lock_mob_t1"
 "spawnflags" "2"
 "target" "mob_t1"
@@ -2365,7 +2366,7 @@
 // entity 155
 {
 "classname" "target_lock"
-"origin" "-536 -200 40"
+"origin" "-592 -160 40"
 "targetname" "fn_unlock_all_mob_g"
 "spawnflags" "4"
 "target" "mob_t1"
@@ -2446,4 +2447,268 @@
 "spawnflags" "16"
 "target" "_on_level_enter"
 "_tb_group" "7"
+}
+// entity 164
+{
+"classname" "target_items"
+"origin" "-128 -120 48"
+"spawnflags" "20"
+"targetname" "fn_shrine_give_item"
+"items" "8"
+"weapon" "8"
+"ammo_nails" "15"
+}
+// entity 165
+{
+"classname" "target_items"
+"origin" "-160 -120 48"
+"spawnflags" "20"
+"targetname" "fn_shrine_give_item"
+"ammo_nails" "5"
+"items" "4"
+"weapon" "4"
+}
+// entity 166
+{
+"classname" "target_items"
+"origin" "-128 -152 48"
+"spawnflags" "20"
+"targetname" "fn_shrine_give_item"
+"ammo_shells" "15"
+"items" "2"
+"weapon" "2"
+}
+// entity 167
+{
+"classname" "target_items"
+"origin" "-160 -152 48"
+"spawnflags" "20"
+"targetname" "fn_shrine_give_item"
+"items" "16"
+"weapon" "16"
+"ammo_rockets" "15"
+}
+// entity 168
+{
+"classname" "trigger_relay"
+"origin" "-72 -248 40"
+"target" "fn_shrine_pick_random_item"
+"message" "You got something"
+"target2" "fn_shrine_lock"
+"targetname" "fn_shrine_interact"
+"sounds" "3"
+"target3" "mdl_shrine"
+"target4" "rn_shrine_unlock_reset"
+}
+// entity 169
+{
+"classname" "target_lock"
+"origin" "-160 -200 40"
+"targetname" "fn_shrine_lock"
+"spawnflags" "2"
+"target" "fn_shrine_trigger"
+}
+// entity 170
+{
+"classname" "target_lock"
+"origin" "-168 -256 40"
+"targetname" "fn_shrine_unlock"
+"spawnflags" "4"
+"target" "fn_shrine_trigger"
+}
+// entity 171
+{
+"classname" "trigger_relay"
+"origin" "-548 -288 40"
+"targetname" "rn_reset_shrines"
+"target" "fn_shrine_unlock"
+"target2" "rn_shrine_lock_reset"
+"target3" "mdl_shrine"
+}
+// entity 172
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "shrine"
+"_tb_id" "64"
+"_tb_linked_group_id" "{e6de66fd-30c3-40e7-a292-8ad55a1cb32d}"
+"_tb_transformation" "1 0 0 -3016 0 1 0 -5632 0 0 1 0 0 0 0 1"
+}
+// entity 173
+{
+"classname" "trigger_multiple"
+"target" "fn_shrine_interact"
+"targetname" "fn_shrine_trigger"
+"_tb_group" "64"
+// brush 0
+{
+( -3328 -6128 32 ) ( -3328 -6127 32 ) ( -3328 -6128 33 ) conc_c01_gry2 [ 0 1 0 464 ] [ 0 0 -1 0 ] 90 1 1
+( -3320 -5864 32 ) ( -3320 -5864 33 ) ( -3319 -5864 32 ) conc_c01_gry2 [ 1 0 0 88 ] [ 0 0 -1 0 ] 90 1 1
+( -3320 -6128 32 ) ( -3319 -6128 32 ) ( -3320 -6127 32 ) conc_c01_gry2 [ 1 0 0 88 ] [ 0 -1 0 -464 ] 0 1 1
+( -3256 -5840 128 ) ( -3256 -5839 128 ) ( -3255 -5840 128 ) conc_c01_gry2 [ 1 0 0 88 ] [ 0 -1 0 -464 ] 0 1 1
+( -3256 -5800 64 ) ( -3255 -5800 64 ) ( -3256 -5800 65 ) conc_c01_gry2 [ 1 0 0 88 ] [ 0 0 -1 0 ] 90 1 1
+( -3240 -5840 64 ) ( -3240 -5840 65 ) ( -3240 -5839 64 ) conc_c01_gry2 [ 0 1 0 464 ] [ 0 0 -1 0 ] 270 1 1
+}
+}
+// entity 174
+{
+"classname" "func_wall"
+"spawnflags" "7"
+"targetname" "mdl_shrine"
+"_tb_group" "64"
+// brush 0
+{
+( -3320 -5840 32 ) ( -3320 -5839 32 ) ( -3320 -5840 33 ) ind_cont2_ylw3 [ 0 -1 0 -176 ] [ 0 0 -1 96 ] 270 1 1
+( -3320 -5872 32 ) ( -3320 -5872 33 ) ( -3319 -5872 32 ) ind_cont2_ylw3 [ -1.0000000000000002 0 0 -184 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+( -3320 -5840 32 ) ( -3319 -5840 32 ) ( -3320 -5839 32 ) ind_cont2_ylw3 [ -1 0 0 -456 ] [ 0 -1 0 0 ] 270 1 1
+( -3288 -5808 96 ) ( -3288 -5807 96 ) ( -3287 -5808 96 ) ind_cont2_ylw3 [ 1 0 0 310 ] [ 0 -1 0 -176 ] 270 1 1
+( -3288 -5808 48 ) ( -3287 -5808 48 ) ( -3288 -5808 49 ) ind_cont2_ylw3 [ 1.0000000000000002 0 0 248 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+( -3256 -5808 48 ) ( -3256 -5808 49 ) ( -3256 -5807 48 ) ind_cont2_ylw3 [ 0 -1.0000000000000002 0 -176 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+}
+}
+// entity 175
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "shrine"
+"_tb_id" "65"
+"_tb_linked_group_id" "{e6de66fd-30c3-40e7-a292-8ad55a1cb32d}"
+}
+// entity 176
+{
+"classname" "trigger_multiple"
+"target" "fn_shrine_interact"
+"targetname" "fn_shrine_trigger"
+"_tb_group" "65"
+// brush 0
+{
+( -312 -496 32 ) ( -312 -495 32 ) ( -312 -496 33 ) conc_c01_gry2 [ 0 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( -304 -232 32 ) ( -304 -232 33 ) ( -303 -232 32 ) conc_c01_gry2 [ 1 0 0 144 ] [ 0 0 -1 0 ] 180 1 1
+( -304 -496 32 ) ( -303 -496 32 ) ( -304 -495 32 ) conc_c01_gry2 [ 1 0 0 144 ] [ 0 -1 0 48 ] 270 1 1
+( -240 -208 128 ) ( -240 -207 128 ) ( -239 -208 128 ) conc_c01_gry2 [ 1 0 0 144 ] [ 0 -1 0 48 ] 90 1 1
+( -240 -168 64 ) ( -239 -168 64 ) ( -240 -168 65 ) conc_c01_gry2 [ 1 0 0 144 ] [ 0 0 -1 0 ] 0 1 1
+( -224 -208 64 ) ( -224 -208 65 ) ( -224 -207 64 ) conc_c01_gry2 [ 0 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+}
+}
+// entity 177
+{
+"classname" "func_wall"
+"spawnflags" "7"
+"targetname" "mdl_shrine"
+"_tb_group" "65"
+// brush 0
+{
+( -304 -208 32 ) ( -304 -207 32 ) ( -304 -208 33 ) ind_cont2_ylw3 [ 0 -1 0 -176 ] [ 0 0 -1 96 ] 0 1 1
+( -304 -240 32 ) ( -304 -240 33 ) ( -303 -240 32 ) ind_cont2_ylw3 [ -1.0000000000000002 0 0 -240 ] [ 0 0 -1.0000000000000002 96 ] 0 1 1
+( -304 -208 32 ) ( -303 -208 32 ) ( -304 -207 32 ) ind_cont2_ylw3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -272 -176 96 ) ( -272 -175 96 ) ( -271 -176 96 ) ind_cont2_ylw3 [ 1 0 0 -146 ] [ 0 -1 0 336 ] 0 1 1
+( -272 -176 48 ) ( -271 -176 48 ) ( -272 -176 49 ) ind_cont2_ylw3 [ 1.0000000000000002 0 0 304 ] [ 0 0 -1.0000000000000002 96 ] 0 1 1
+( -240 -176 48 ) ( -240 -176 49 ) ( -240 -175 48 ) ind_cont2_ylw3 [ 0 -1.0000000000000002 0 -176 ] [ 0 0 -1.0000000000000002 96 ] 0 1 1
+}
+}
+// entity 178
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "shrine"
+"_tb_id" "66"
+"_tb_linked_group_id" "{e6de66fd-30c3-40e7-a292-8ad55a1cb32d}"
+"_tb_transformation" "1 0 0 -1984 0 1 0 -848 0 0 1 0 0 0 0 1"
+}
+// entity 179
+{
+"classname" "trigger_multiple"
+"target" "fn_shrine_interact"
+"targetname" "fn_shrine_trigger"
+"_tb_group" "66"
+// brush 0
+{
+( -2296 -1344 32 ) ( -2296 -1343 32 ) ( -2296 -1344 33 ) conc_c01_gry2 [ 0 1 0 288 ] [ 0 0 -1 0 ] 90 1 1
+( -2288 -1080 32 ) ( -2288 -1080 33 ) ( -2287 -1080 32 ) conc_c01_gry2 [ 1 0 0 80 ] [ 0 0 -1 0 ] 90 1 1
+( -2288 -1344 32 ) ( -2287 -1344 32 ) ( -2288 -1343 32 ) conc_c01_gry2 [ 1 0 0 80 ] [ 0 -1 0 -288 ] 0 1 1
+( -2224 -1056 128 ) ( -2224 -1055 128 ) ( -2223 -1056 128 ) conc_c01_gry2 [ 1 0 0 80 ] [ 0 -1 0 -288 ] 0 1 1
+( -2224 -1016 64 ) ( -2223 -1016 64 ) ( -2224 -1016 65 ) conc_c01_gry2 [ 1 0 0 80 ] [ 0 0 -1 0 ] 90 1 1
+( -2208 -1056 64 ) ( -2208 -1056 65 ) ( -2208 -1055 64 ) conc_c01_gry2 [ 0 1 0 288 ] [ 0 0 -1 0 ] 270 1 1
+}
+}
+// entity 180
+{
+"classname" "func_wall"
+"spawnflags" "7"
+"targetname" "mdl_shrine"
+"_tb_group" "66"
+// brush 0
+{
+( -2288 -1056 32 ) ( -2288 -1055 32 ) ( -2288 -1056 33 ) ind_cont2_ylw3 [ 0 -1 0 0 ] [ 0 0 -1 96 ] 270 1 1
+( -2288 -1088 32 ) ( -2288 -1088 33 ) ( -2287 -1088 32 ) ind_cont2_ylw3 [ -1.0000000000000002 0 0 -176 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+( -2288 -1056 32 ) ( -2287 -1056 32 ) ( -2288 -1055 32 ) ind_cont2_ylw3 [ -1 0 0 -448 ] [ 0 -1 0 -336 ] 270 1 1
+( -2256 -1024 96 ) ( -2256 -1023 96 ) ( -2255 -1024 96 ) ind_cont2_ylw3 [ 1 0 0 302 ] [ 0 -1 0 0 ] 270 1 1
+( -2256 -1024 48 ) ( -2255 -1024 48 ) ( -2256 -1024 49 ) ind_cont2_ylw3 [ 1.0000000000000002 0 0 240 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+( -2224 -1024 48 ) ( -2224 -1024 49 ) ( -2224 -1023 48 ) ind_cont2_ylw3 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+}
+}
+// entity 181
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "shrine"
+"_tb_id" "67"
+"_tb_linked_group_id" "{e6de66fd-30c3-40e7-a292-8ad55a1cb32d}"
+"_tb_transformation" "1 0 0 -2472 0 1 0 -3296 0 0 1 0 0 0 0 1"
+}
+// entity 182
+{
+"classname" "trigger_multiple"
+"target" "fn_shrine_interact"
+"targetname" "fn_shrine_trigger"
+"_tb_group" "67"
+// brush 0
+{
+( -2784 -3792 32 ) ( -2784 -3791 32 ) ( -2784 -3792 33 ) conc_c01_gry2 [ 0 1 0 176 ] [ 0 0 -1 0 ] 90 1 1
+( -2776 -3528 32 ) ( -2776 -3528 33 ) ( -2775 -3528 32 ) conc_c01_gry2 [ 1 0 0 56 ] [ 0 0 -1 0 ] 90 1 1
+( -2776 -3792 32 ) ( -2775 -3792 32 ) ( -2776 -3791 32 ) conc_c01_gry2 [ 1 0 0 56 ] [ 0 -1 0 -176 ] 0 1 1
+( -2712 -3504 128 ) ( -2712 -3503 128 ) ( -2711 -3504 128 ) conc_c01_gry2 [ 1 0 0 56 ] [ 0 -1 0 -176 ] 0 1 1
+( -2712 -3464 64 ) ( -2711 -3464 64 ) ( -2712 -3464 65 ) conc_c01_gry2 [ 1 0 0 56 ] [ 0 0 -1 0 ] 90 1 1
+( -2696 -3504 64 ) ( -2696 -3504 65 ) ( -2696 -3503 64 ) conc_c01_gry2 [ 0 1 0 176 ] [ 0 0 -1 0 ] 270 1 1
+}
+}
+// entity 183
+{
+"classname" "func_wall"
+"spawnflags" "7"
+"targetname" "mdl_shrine"
+"_tb_group" "67"
+// brush 0
+{
+( -2776 -3504 32 ) ( -2776 -3503 32 ) ( -2776 -3504 33 ) ind_cont2_ylw3 [ 0 -1 0 -400 ] [ 0 0 -1 96 ] 270 1 1
+( -2776 -3536 32 ) ( -2776 -3536 33 ) ( -2775 -3536 32 ) ind_cont2_ylw3 [ -1.0000000000000002 0 0 -152 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+( -2776 -3504 32 ) ( -2775 -3504 32 ) ( -2776 -3503 32 ) ind_cont2_ylw3 [ -1 0 0 -424 ] [ 0 -1 0 -224 ] 270 1 1
+( -2744 -3472 96 ) ( -2744 -3471 96 ) ( -2743 -3472 96 ) ind_cont2_ylw3 [ 1 0 0 278 ] [ 0 -1 0 -400 ] 270 1 1
+( -2744 -3472 48 ) ( -2743 -3472 48 ) ( -2744 -3472 49 ) ind_cont2_ylw3 [ 1.0000000000000002 0 0 216 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+( -2712 -3472 48 ) ( -2712 -3472 49 ) ( -2712 -3471 48 ) ind_cont2_ylw3 [ 0 -1.0000000000000002 0 -400 ] [ 0 0 -1.0000000000000002 96 ] 90 1 1
+}
+}
+// entity 184
+{
+"classname" "trigger_relay"
+"origin" "-88 -200 40"
+"spawnflags" "2"
+"targetname" "fn_shrine_pick_random_item"
+"target" "fn_shrine_give_item"
+}
+// entity 185
+{
+"classname" "target_lock"
+"origin" "-544 -328 40"
+"targetname" "rn_shrine_lock_reset"
+"spawnflags" "2"
+"target" "rn_reset_shrines"
+}
+// entity 186
+{
+"classname" "target_lock"
+"origin" "-552 -248 40"
+"targetname" "rn_shrine_unlock_reset"
+"spawnflags" "4"
+"target" "rn_reset_shrines"
 }
