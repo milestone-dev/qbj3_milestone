@@ -23203,14 +23203,14 @@
 // entity 257
 {
 "classname" "monster_fish"
-"origin" "1664 -4400 2888"
+"origin" "1696 -4408 2888"
 "angle" "0"
 "target" "p001a"
 }
 // entity 258
 {
 "classname" "monster_fish"
-"origin" "2208 -4416 2960"
+"origin" "2208 -4416 2968"
 "angle" "180"
 "target" "p002a"
 "target2" ""
@@ -27760,28 +27760,28 @@
 // entity 374
 {
 "classname" "path_corner"
-"origin" "1664 -4424 2904"
+"origin" "1640 -4416 2880"
 "targetname" "p001a"
 "target" "p001b"
 }
 // entity 375
 {
 "classname" "path_corner"
-"origin" "2208 -4408 2904"
+"origin" "2224 -4416 2904"
 "targetname" "p002a"
 "target" "p002b"
 }
 // entity 376
 {
 "classname" "path_corner"
-"origin" "2120 -4408 2904"
+"origin" "2120 -4424 2912"
 "target" "p002a"
 "targetname" "p002b"
 }
 // entity 377
 {
 "classname" "path_corner"
-"origin" "1744 -4424 2904"
+"origin" "1744 -4416 2880"
 "target" "p001a"
 "targetname" "p001b"
 }
