@@ -41,12 +41,4 @@ Hans Asplund
 --
 
 TODO
-
-- Fix curve ramp shadow
-- Spawn in top enemies only when entering top latform
-- Shambler top platform is jumpy
-- Stair top tex overlap
-- Encourage RUN! in agony dimension 
-- Spawn in fewer fiends on the top while the boss is active
-- Respawn diamond more frequently.
-
+- 
