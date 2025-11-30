@@ -78,18 +78,9 @@ https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
 # TODO
 
 - Not clear that cistern requires key
-- Don’t spawn two shals on normal
-- Don’t see pillar door 
-- Gets lost in building
 - Fix stairs message - add the post locked button
-- Top ladder too forgiving
-- Fix sounds not included
-- Better reward form ground explo ambush
-- Ease on dimension spawning on easy and normal
 - Give invoker when boss spawns
 - Explicit message survive during your bloodlust
-- Fade in a semi transparent red? texture when looking though oculus
-- Add shortcut to central round chamber if already opened to avoid backtracking
 
 LORE
 
