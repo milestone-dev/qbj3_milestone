@@ -40,3 +40,35 @@ Hans Asplund
 
 --
 
+
+
+map is currently still mostly prototype-textures, with dirtdebug lighting. i expect the map to take about 40 minutes to play. there are nearly 600 monsters. i have only tested it on skill 1, but testing on other skills is appreciated. 
+
+⚠️
+ when you beat the final arena, you are expected to rocket-jump with the MMML. if you cannot, it is a bug! please just noclip to the large exit portal above the arena instead when this happens. 
+
+i would like feedback for the whole level, so if you get stuck at any specific section, don't be afraid to use god or noclip 
+
+---
+
+ANY feedback appreciated. some examples:
+is it balanced?
+is it too hard?
+is it too easy?
+is it fun?
+did you get lost?
+do you like the fights?
+do you like walking around and platforming in the level?
+
+
+The map should be playable from start to end. I have mostly been testing on skill Nightmare 
+Texturing, lightning and details and gameplay are still WIP and will be improved before release.
+
+I am specifically interested in:
+- Is the map balanced?
+- Is it clear what to do next?
+That said, all feedback is welcome!
+The map should take 20-30 minutes.
+Thanks for testing!
+
+Lore and messages are still in progress, but I've added an info box at the end with info about the puzzle-like mechanics.
