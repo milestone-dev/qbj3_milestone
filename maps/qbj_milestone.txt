@@ -40,5 +40,3 @@ Hans Asplund
 
 --
 
-TODO
-- 
