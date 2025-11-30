@@ -36496,8 +36496,8 @@
 {
 "classname" "weapon_invoker"
 "origin" "256 -4176 4096"
-"wait" "30"
 "targetname" "boss_diamond"
+"wait" "30"
 "_tb_group" "1843"
 }
 // entity 683
@@ -36513,8 +36513,8 @@
 {
 "classname" "weapon_invoker"
 "origin" "1920 -5856 4096"
-"wait" "30"
 "targetname" "boss_diamond"
+"wait" "30"
 "_tb_group" "1841"
 }
 // entity 685
@@ -36530,8 +36530,8 @@
 {
 "classname" "weapon_invoker"
 "origin" "1152 -2640 4096"
-"wait" "30"
 "targetname" "boss_diamond"
+"wait" "30"
 "_tb_group" "1844"
 }
 // entity 687
@@ -36547,8 +36547,8 @@
 {
 "classname" "weapon_invoker"
 "origin" "3392 -5200 4096"
-"wait" "30"
 "targetname" "boss_diamond"
+"wait" "30"
 "_tb_group" "1845"
 }
 // entity 689

@@ -1,0 +1,34 @@
+qbj3_milestone "MAP TILE GOES HERE"
+
+# LORE Drafting
+
+Meteorite crashed on the planet.
+The god enprisioned within spoke to them, telling them about vast cities of concrete
+Some went mad, mutilating their own bodies in service of the god
+Three oculus stones if raw concrete were carefully shaped to channel the energy of the sun - and finally set the god free from its meteorite shell
+Before the project could be completed, rebels slaughtered the cult and put locks on the final oculus.
+
+# Playtesting 
+
+The map should be playable from start to end. I have mostly been testing on skill Nightmare 
+Texturing, lightning and details and gameplay are still WIP and will be improved before release.
+
+I am specifically interested in:
+- Is the map balanced?
+- Is it clear what to do next?
+That said, all feedback is welcome!
+The map should take 20-30 minutes.
+Thanks for testing!
+
+Lore and messages are still in progress, but I've added an info box at the end with info about the puzzle-like mechanics.
+
+https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
+
+-----
+
+# TODO
+
+Later
+- Not clear that cistern requires key
+- Give invoker when boss spawns 
+
