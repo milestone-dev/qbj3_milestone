@@ -28,7 +28,15 @@ https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
 
 # TODO
 
-Later
-- Not clear that cistern requires key
 - Give invoker when boss spawns 
-
+- Create an actual ladder instead of just relying on a texture
+- Switch to Makkon foliage texture
+- Void: Fade out to purple instead of black
+- Fix first shootable button going into wall
+- Two shotguns are confusing - remove each other
+- Move grenade launcher further out
+- Aggro zombies in maze
+- Patrol units more
+- Make steps on Norra Tornen better
+- Remove number of doors in interior somehow.
+- Make room not visually distinct
