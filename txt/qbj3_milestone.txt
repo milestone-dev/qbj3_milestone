@@ -90,4 +90,11 @@ https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
 - Explicit message survive during your bloodlust
 - Fade in a semi transparent red? texture when looking though oculus
 - Add shortcut to central round chamber if already opened to avoid backtracking
-- Make sure top floor oculus is the last one you do. A lock of some sort that you can explode away
+
+LORE
+
+Meteorite crashed on the planet.
+The god enprisioned within spoke to them, telling them about vast cities of concrete
+Some went mad, mutilating their own bodies in service of the god
+Three oculus stones if raw concrete were carefully shaped to channel the energy of the sun - and finally set the god free from its meteorite shell
+Before the project could be completed, rebels slaughtered the cult and put locks on the final oculus.
