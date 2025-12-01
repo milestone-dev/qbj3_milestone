@@ -34,7 +34,6 @@ Now
 - Patrol units more
 - Make steps on Norra Tornen better
 - Remove number of doors in interior somehow.
-- Arena, add mobs to pressure you on second highest floor
 - Top arena, make enemies actually challenging before boss fight
 - Dimension of agony breaks the flow completely.
 - Make dimension of agony more clear that it's 30 seconds
