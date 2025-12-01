@@ -28,15 +28,22 @@ https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
 
 # TODO
 
+Now
 - Give invoker when boss spawns 
-- Create an actual ladder instead of just relying on a texture
-- Switch to Makkon foliage texture
 - Void: Fade out to purple instead of black
 - Fix first shootable button going into wall
 - Two shotguns are confusing - remove each other
 - Move grenade launcher further out
-- Aggro zombies in maze
+- Aggro zombies in maze. Alt target pattern
 - Patrol units more
 - Make steps on Norra Tornen better
 - Remove number of doors in interior somehow.
 - Make room not visually distinct
+- Areana, add mobs to pressure you on second highest floor
+- Top arena, make enemies actually challenging before boss fight
+- Dimension of agony breaks the flow completely.
+- Make dimension of agony more clear that it's 30 seconds
+- Fix clip brush blocking movement for main outdoor arch
+
+Later
+- Create an actual ladder instead of just relying on a texture
