@@ -545,3 +545,6 @@ sound/rebar/stick_metal2.wav
 auto.sav
 auto.sav
 auto.sav
+*.log
+*.prt
+maps/qbj3_milestone.texinfo.json
