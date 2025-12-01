@@ -32,7 +32,6 @@ Now
 - Give invoker when boss spawns 
 - Aggro zombies in maze. Alt target pattern
 - Patrol units more
-- Make steps on Norra Tornen better
 - Remove number of doors in interior somehow.
 - Top arena, make enemies actually challenging before boss fight
 - Dimension of agony breaks the flow completely.
