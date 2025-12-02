@@ -29,13 +29,14 @@ https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
 # TODO
 
 Now
-- Give invoker when boss spawns and give instructions
 - Top arena, make enemies actually challenging before boss fight
-- Dimension of agony breaks the flow completely. But that's probably OK
-- Make dimension of agony more clear that it's 30 seconds. Put player in a locker (some cool effects) and give info before starting.
-- Remove number of doors in interior somehow.
+- Give invoker when boss spawns and give instructions
+- Reduce number of doors in interior.
 
 Later
 - Create an actual ladder instead of just relying on a texture
 - Fix first shootable button going into wall
-- Make rooms visually distinct
+- Make rooms more visually distinct and use trims
+
+Polish
+- Add LORE with each secret, the resistance.
