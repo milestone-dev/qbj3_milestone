@@ -29,11 +29,6 @@ https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
 # TODO
 
 Now
-- Top arena, make enemies actually challenging before boss fight
-- Give invoker when boss spawns and give instructions
-- Reduce number of doors in interior.
-
-Later
 - Create an actual ladder instead of just relying on a texture
 - Fix first shootable button going into wall
 - Make rooms more visually distinct and use trims
