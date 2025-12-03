@@ -48330,44 +48330,23 @@
 // entity 1365
 {
 "classname" "misc_model"
-"origin" "2040 -4264 2856"
-"model" "progs/proj_nail.mdl"
-"mangle" "0 0 90"
-}
-// entity 1366
-{
-"classname" "misc_model"
-"origin" "2040 -4280 2880"
-"model" "progs/proj_nail.mdl"
-"mangle" "0 0 90"
-}
-// entity 1367
-{
-"classname" "misc_model"
-"origin" "2040 -4280 2904"
-"model" "progs/proj_nail.mdl"
-"mangle" "0 0 90"
-}
-// entity 1368
-{
-"classname" "misc_model"
 "origin" "2137 -4441 2833"
 "model" "progs/debris2.mdl"
 }
-// entity 1369
+// entity 1366
 {
 "classname" "misc_model"
 "origin" "2204 -4432 2832"
 "model" "progs/gibs/gib_gen_3.mdl"
 }
-// entity 1370
+// entity 1367
 {
 "classname" "misc_model"
 "origin" "1672 -4426 2835"
 "model" "progs/debris3.mdl"
 "skin" "2"
 }
-// entity 1371
+// entity 1368
 {
 "classname" "misc_model"
 "origin" "1722 -4437 2836"
@@ -48375,7 +48354,7 @@
 "skin" "2"
 "mangle" "0 60 0"
 }
-// entity 1372
+// entity 1369
 {
 "classname" "misc_model"
 "origin" "1720 -4412 2833"
@@ -48383,15 +48362,15 @@
 "skin" "2"
 "mangle" "0 -45 0"
 }
-// entity 1373
+// entity 1370
 {
 "classname" "misc_model"
 "origin" "1709 -4428 2836"
 "model" "progs/gibs/gibhead_grunt_p.mdl"
-"skin" "2"
+"skin" "1"
 "mangle" "-90 0 -45"
 }
-// entity 1374
+// entity 1371
 {
 "classname" "misc_model"
 "origin" "2188 -4424 2833"
