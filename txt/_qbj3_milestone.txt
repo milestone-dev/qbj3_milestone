@@ -1,5 +1,10 @@
 qbj3_milestone "MAP TILE GOES HERE"
 
+# Utils
+
+https://www.quaketastic.com/files/light_chart_01.jpg
+https://ericw-tools.readthedocs.io/en/latest/light.html
+
 # LORE Drafting
 
 Meteorite crashed on the planet.
@@ -32,6 +37,35 @@ Now
 - Create an actual ladder instead of just relying on a texture
 - Fix first shootable button going into wall
 - Make rooms more visually distinct and use trims
+- Add LORE decals to explain the story, but don't rely on them
 
-Polish
+
+l001
+It fell from the sky\n
+l002
+l003
+l004
+l005
+l006
+
+
+Polish and fixes
 - Add LORE with each secret, the resistance.
+- Right room with slime pillar, fix overlapping wall that opens
+
+
+Texture areas
+- Start room, trims for slanted pillars
+- Ladder for dog jump room, trims for platforms
+- Outside stair area, staircase, rocks, foliage
+- Guard post, button texture, windowsill trim
+- Main circle room: Trims for wall edges and fix doors
+- Tar pillar room
+- Ambush room
+- 
+
+LORE template
+
+\n\n
+Line, keep 24 chars max\n\n
+
