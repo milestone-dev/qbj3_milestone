@@ -62,6 +62,8 @@ Texture areas
 - Main circle room: Trims for wall edges and fix doors
 - Tar pillar room
 - Ambush room
+- Norra tornen interior and exterior
+- Sun oculus pillars
 - 
 
 LORE template
@@ -69,3 +71,12 @@ LORE template
 \n\n
 Line, keep 24 chars max\n\n
 
+
+------------------------
+(asteroid)
+A star fell from the sky
+
+(crystal)
+We constructed a temple
+around the salvaged star
+
