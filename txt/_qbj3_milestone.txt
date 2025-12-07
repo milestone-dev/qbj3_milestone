@@ -51,16 +51,12 @@ l006
 
 Polish and fixes
 - Add LORE with each secret, the resistance.
-- Right room with slime pillar, fix overlapping wall that opens
 
+
+- It was very confusing when i randomly got told to return and protect the stone and three lone shamblers spawned
+- Limit ALL TEXT TO 24 chars
 
 Texture areas
-- Ladder for dog jump room, trims for platforms
-- Outside stair area, staircase, rocks, foliage
-- Guard post, button texture, windowsill trim
-- Tar pillar room
-- Ambush room
-- Norra tornen interior and exterior
 
 LORE template
 
@@ -78,6 +74,6 @@ around the salvaged star
 
 (pillar)
 
-\n\n Shoot the sun trough the 3\n pillars to awaken the boss\n \nThe boss can only be killed\n with the Red Crystal weapon\n\n
+\n\n Shoot the sun trough	 the 3\n pillars to awaken the boss\n \nThe boss can only be killed\n with the Red Crystal weapon\n\n
 
 
