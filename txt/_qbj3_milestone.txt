@@ -55,16 +55,12 @@ Polish and fixes
 
 
 Texture areas
-- Start room, trims for slanted pillars
 - Ladder for dog jump room, trims for platforms
 - Outside stair area, staircase, rocks, foliage
 - Guard post, button texture, windowsill trim
-- Main circle room: Trims for wall edges and fix doors
 - Tar pillar room
 - Ambush room
 - Norra tornen interior and exterior
-- Sun oculus pillars
-- 
 
 LORE template
 
@@ -79,4 +75,9 @@ A star fell from the sky
 (crystal)
 We constructed a temple
 around the salvaged star
+
+(pillar)
+
+\n\n Shoot the sun trough the 3\n pillars to awaken the boss\n \nThe boss can only be killed\n with the Red Crystal weapon\n\n
+
 
