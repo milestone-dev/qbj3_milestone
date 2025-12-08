@@ -15,8 +15,8 @@ xcopy "maps\qbj3_milestone.lit" "%STAGE%\maps\" /i /s
 xcopy "gfx\env\stick_sunset2_*.tga" "%STAGE%\gfx\env\" /i /s
 xcopy "music\track250.ogg" "%STAGE%\music\" /i /s
 xcopy "sound\qbj3_milestone" "%STAGE%\sound\qbj3_milestone\" /i /s /e
-xcopy "txt\qbj3_milestone.txt" "%STAGE%\txt\" /i /s
-xcopy "maps\qbj3_milestone.map" "%STAGE%\mapsrc\" /i /s
+xcopy "docs\qbj3_milestone.txt" "%STAGE%\docs\" /i /s
+xcopy "maps\qbj3_milestone.map" "%STAGE%\src\" /i /s
 
 REM Create zip file
 powershell -command "Compress-Archive -Path '%STAGE%\*' -DestinationPath '%ZIPNAME%'"
