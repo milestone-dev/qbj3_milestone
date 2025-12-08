@@ -61,46 +61,73 @@ Texture areas
 LORE template
 
 \n\n
-Lore, 24 characters max\n\n
-
+Lore, 24 characters max
+\n\n
 
 ------------------------
 
-A star fell from the sky.
-We constructed a temple
+(Skyfall)
+\n\n
+A star fell from the sky.\n
+We constructed a temple\n
 around the red crystal.
+\n\n
 
-The god within whispers
-to us in our dreams.
-Dreams of vast cities,
-made of concrete
+(Crystal)
+\n\n
+The god within whispers\n
+to us in our dreams.\n
+Dreams of vast cities,\n
+made of... concrete.
+\n\n
 
-The god broke off shards
-of its red crystal prison.
-When channeled, they release
-immense destructive power.
+(Shards)
+\n\n
+The god broke off shards\n
+of its red crystal prison.\n
+Radiating immense power,\n
+causing madness.
+\n\n
 
-Three oculus pillars were
-constructed around the temple,
+(Pillar + sun)
+\n\n
+Three oculus pillars were\n
+constructed around the temple,\n
 powered by the setting sun.
+\n\n
 
-If aligned with the setting
-sun and lit ablaze, they will
-serve to crack the crystal open,
+(Three pillars)
+\n\n
+When aligned with the setting\n
+sun and lit ablaze, the pillars\n
+will crack the crystal open,\n
 and release the god on this world.
+\n\n
 
-The priests were the first
-to go mad from the whispers.
-Wearing the shards around
-their necks, their mutilated
+(Crystal weapon)
+\n\n
+The red shards from the\n
+god's prison can be channeled\n
+to unleash great destruction
+\n\n
+
+
+(Priests)
+\n\n
+The priests were the first\n
+to go mad from the whispers.\n
+Wearing the shards around\n
+their necks, their mutilated\n
 bodies gained power of flight.
+\n\n
 
-The matriarchs 
+(Shalrath)
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 
+(Champion)
 The champion guard patrol
 Keep the others in line
 Guard the crystal
@@ -109,13 +136,12 @@ TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 
-Fiend
+(Fiend)
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 TEXT TEXT TEXT TEXT TEXT
 
-(pillar)
 
 \n\n Shoot the sun trough	 the 3\n pillars to awaken the boss\n \nThe boss can only be killed\n with the Red Crystal weapon\n\n
 
@@ -131,3 +157,15 @@ Before the project could be completed, rebels slaughtered the cult and put locks
 
 
 \n\n Lore, 24 characters max\n\n 
+
+
+\n\n 
+\n\n 
+
+
+\n\n 
+Align and fire at the sun\n
+through the opening in the\n
+three pillars to destroy\n
+the crystal\n
+\n\n 
