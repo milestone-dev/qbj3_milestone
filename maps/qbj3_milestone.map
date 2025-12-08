@@ -49128,8 +49128,7 @@
 "sounds" "-1"
 "angles" "0 1 0"
 "distance" "90"
-"message" "\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal. \n\n
-"
+"message" "\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal.\n\n"
 "_tb_group" "4722"
 // brush 0
 {
@@ -49146,8 +49145,7 @@
 "classname" "func_wall"
 "spawnflags" "1"
 "alpha" "0.8"
-"message" "\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal. \n\n
-"
+"message" "\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal.\n\n"
 "_tb_group" "4722"
 // brush 0
 {
@@ -49164,8 +49162,7 @@
 "classname" "func_wall"
 "spawnflags" "1"
 "alpha" "0.8"
-"message" "\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal. \n\n
-"
+"message" "\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal.\n\n"
 "_tb_group" "4722"
 // brush 0
 {
@@ -51527,8 +51524,7 @@
 // entity 1474
 {
 "classname" "trigger_multiple"
-"message" "\n\n The god within whispers\n to us in our dreams.\n Dreams of vast cities,\n made of... concrete. \n\n
-"
+"message" "\n\n The god within whispers\n to us in our dreams.\n Dreams of vast cities,\n made of... concrete.\n\n"
 "sounds" "-1"
 "angles" "0 -89 0"
 "distance" "90"
@@ -51587,7 +51583,7 @@
 "sounds" "-1"
 "angles" "0 1 0"
 "distance" "90"
-"message" "\n\n The matriarchs led the rituals\n to transform the inhabitants\n into nightmarish spawn. \n\n "
+"message" "\n\n The matriarchs led the rituals\n to transform the inhabitants\n into nightmarish spawn.\n\n "
 "_tb_group" "1123953"
 // brush 0
 {
@@ -51646,7 +51642,7 @@
 "sounds" "-1"
 "angles" "0 -89 0"
 "distance" "90"
-"message" "\n\n The elite champions oversee\n and guard the crystal from \n all who might try to interfere\n with the god's awakening \n\n "
+"message" "\n\n The elite champions oversee\n and guard the crystal from \n all who might try to interfere\n with the god's awakening\n\n "
 "_tb_group" "1123954"
 // brush 0
 {
@@ -51705,7 +51701,7 @@
 "sounds" "-1"
 "angles" "0 -179 0"
 "distance" "90"
-"message" "\n\n The power of the crystal\n draws fiends from the\n dimension of agony.\n Their hunger is unending. \n\n "
+"message" "\n\n The power of the crystal\n draws fiends from the\n dimension of agony.\n Their hunger is unending.\n\n "
 "_tb_group" "1123955"
 // brush 0
 {
@@ -51773,8 +51769,7 @@
 "sounds" "-1"
 "angles" "0 -89 0"
 "distance" "90"
-"message" "\n\n Three oculus pillars were\n constructed around the temple,\n powered by the setting sun. \n\n
-"
+"message" "\n\n Three oculus pillars were\n constructed around the temple,\n powered by the setting sun.\n\n"
 "_tb_group" "1123951"
 // brush 0
 {
@@ -51833,8 +51828,7 @@
 "sounds" "-1"
 "angles" "0 -179 0"
 "distance" "90"
-"message" "\n\n The god broke off shards\n of its red crystal prison.\n Radiating immense power,\n causing madness. \n\n
-"
+"message" "\n\n The god broke off shards\n of its red crystal prison.\n Radiating immense power,\n causing madness.\n\n"
 "_tb_group" "1123952"
 // brush 0
 {
@@ -51924,7 +51918,7 @@
 "sounds" "-1"
 "angles" "0 -89 0"
 "distance" "90"
-"message" "\n\n The priests were the first\n to go mad from the whispers.\n Wearing the shards around\n their necks, their mutilated\n bodies gained power of flight. \n\n"
+"message" "\n\n The priests were the first\n to go mad from the whispers.\n Wearing the shards around\n their necks, their mutilated\n bodies gained power of flight.\n\n"
 "_tb_group" "1123966"
 // brush 0
 {
@@ -51947,7 +51941,7 @@
 // entity 1503
 {
 "classname" "trigger_multiple"
-"message" "\n\n Align and fire at the sun\n through the opening in the\n three pillars to destroy\n the crystal \n\n"
+"message" "\n\n Align and fire at the sun\n through the opening in the\n three pillars to destroy\n the crystal\n\n"
 "sounds" "-1"
 "wait" "1"
 "targetname" "hint_pillars"
@@ -51992,8 +51986,7 @@
 "sounds" "-1"
 "angles" "0 1 0"
 "distance" "90"
-"message" "\n\n When aligned with the setting\n sun and lit ablaze, the pillars\n will crack the crystal open,\n and release the god on this world. \n\n
-"
+"message" "\n\n When aligned with the setting\n sun and lit ablaze, the pillars\n will crack the crystal open,\n and release the god on this world.\n\n"
 "_tb_group" "1123956"
 // brush 0
 {
@@ -52052,8 +52045,7 @@
 "sounds" "-1"
 "angles" "0 1 0"
 "distance" "90"
-"message" "\n\n The red shards from the\n god's prison can be channeled\n to unleash great destruction \n\n
-"
+"message" "\n\n The red shards from the\n god's prison can be channeled\n to unleash great destruction\n\n"
 "_tb_group" "1123968"
 // brush 0
 {
