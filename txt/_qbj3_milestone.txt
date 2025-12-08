@@ -61,19 +61,73 @@ Texture areas
 LORE template
 
 \n\n
-Line, keep 24 chars max\n\n
+Lore, 24 characters max\n\n
 
 
 ------------------------
-(asteroid)
-A star fell from the sky
 
-(crystal)
+A star fell from the sky.
 We constructed a temple
-around the salvaged star
+around the red crystal.
+
+The god within whispers
+to us in our dreams.
+Dreams of vast cities,
+made of concrete
+
+The god broke off shards
+of its red crystal prison.
+When channeled, they release
+immense destructive power.
+
+Three oculus pillars were
+constructed around the temple,
+powered by the setting sun.
+
+If aligned with the setting
+sun and lit ablaze, they will
+serve to crack the crystal open,
+and release the god on this world.
+
+The priests were the first
+to go mad from the whispers.
+Wearing the shards around
+their necks, their mutilated
+bodies gained power of flight.
+
+The matriarchs 
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+
+The champion guard patrol
+Keep the others in line
+Guard the crystal
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+
+Fiend
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
 
 (pillar)
 
 \n\n Shoot the sun trough	 the 3\n pillars to awaken the boss\n \nThe boss can only be killed\n with the Red Crystal weapon\n\n
 
 
+
+The god enprisioned within spoke to them, telling them about vast cities of concrete
+Some went mad, mutilating their own bodies in service of the god
+Three oculus stones if raw concrete were carefully shaped to channel the energy of the sun - and finally set the god free from its meteorite shell
+Before the project could be completed, rebels slaughtered the cult and put locks on the final oculus.
+
+
+
+
+
+\n\n Lore, 24 characters max\n\n 
