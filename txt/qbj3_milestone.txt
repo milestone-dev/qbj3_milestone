@@ -1,0 +1,16 @@
+===========================================================================
+Title                   : The Whispering Star
+Version                 : 1.0
+Filename                : qbj3_milestone.bsp
+Release date            : December 2025
+Author                  : Milestone
+Mod                     : QBJ3
+Required source port    : Only tested in IronWail 
+Description             : Uncover the mystery behind The Whispering Star.
+~30 minute semi-open map that should provide a challenge on Nightmare
+
+Additional Credits & Thanks to:
+- Textures by Makkon - https://www.slipseer.com/index.php?resources/makkon-textures.28/
+- Skybox by Stickflip
+- SFX: progress.wave, roar.wav and hum.wav are remixed from cc0 sounds from Freesound.org
+- Playtesting and feedback: rabbit, chaosed0, mopeybloke, clenow, PuLSaR

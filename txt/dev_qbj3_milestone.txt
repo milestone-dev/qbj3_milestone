@@ -1,0 +1,121 @@
+qbj3_milestone "MAP TILE GOES HERE"
+
+# Utils
+
+https://www.quaketastic.com/files/light_chart_01.jpg
+https://ericw-tools.readthedocs.io/en/latest/light.html
+
+# LORE Drafting
+
+Meteorite crashed on the planet.
+The god enprisioned within spoke to them, telling them about vast cities of concrete
+Some went mad, mutilating their own bodies in service of the god
+Three oculus stones if raw concrete were carefully shaped to channel the energy of the sun - and finally set the god free from its meteorite shell
+Before the project could be completed, rebels slaughtered the cult and put locks on the final oculus.
+
+# Playtesting 
+
+The map should be playable from start to end. I have mostly been testing on skill Nightmare 
+Texturing, lightning and details and gameplay are still WIP and will be improved before release.
+
+I am specifically interested in:
+- Is the map balanced?
+- Is it clear what to do next?
+That said, all feedback is welcome!
+The map should take 20-30 minutes.
+Thanks for testing!
+
+Lore and messages are still in progress, but I've added an info box at the end with info about the puzzle-like mechanics.
+
+https://drive.google.com/drive/u/0/folders/1J3O_wBndnmQoY6hF9rZT0fNbl9jJbc9L
+
+-----
+
+# TODO
+
+Now
+- Create an actual ladder instead of just relying on a texture
+- Fix first shootable button going into wall
+- Make rooms more visually distinct and use trims
+- Add LORE decals to explain the story, but don't rely on them
+
+
+l001
+It fell from the sky\n
+l002
+l003
+l004
+l005
+l006
+
+
+Polish and fixes
+- Add LORE with each secret, the resistance.
+
+
+- It was very confusing when i randomly got told to return and protect the stone and three lone shamblers spawned
+- Limit ALL TEXT TO 24 chars
+
+Texture areas
+
+LORE template
+
+(Skyfall)
+\n\n A star fell from the sky.\n We constructed a temple\n around the red crystal. \n\n
+
+(Crystal)
+\n\n The god within whispers\n to us in our dreams.\n Dreams of vast cities,\n made of... concrete. \n\n
+
+(Shards)
+\n\n The god broke off shards\n of its red crystal prison.\n Radiating immense power,\n causing madness. \n\n
+
+(Pillar + sun)
+\n\n Three oculus pillars were\n constructed around the temple,\n powered by the setting sun. \n\n
+
+(Three pillars)
+\n\n When aligned with the setting\n sun and lit ablaze, the pillars\n will crack the crystal open,\n and release the god on this world. \n\n
+
+(Crystal weapon)
+\n\n The red shards from the\n god's prison can be channeled\n to unleash great destruction \n\n
+
+(Priests)
+\n\n The priests were the first\n to go mad from the whispers.\n Wearing the shards around\n their necks, their mutilated\n bodies gained power of flight. \n\n
+
+(Shalrath)
+\n\n The matriarchs led the rituals\n to transform the inhabitants\n into nightmarish spawn. \n\n 
+
+(Champion)
+\n\n The elite champions oversee\n and guard the crystal from \n all who might try to interfere\n with the god's awakening \n\n 
+
+(FFiend)
+\n\n The power of the crystal\n draws fiends from the\n dimension of agony.\n Their hunger is unending. \n\n 
+
+(Champion)
+The champion guard patrol
+Keep the others in line
+Guard the crystal
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+
+(Fiend)
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+TEXT TEXT TEXT TEXT TEXT
+
+
+\n\n Shoot the sun trough	 the 3\n pillars to awaken the boss\n \nThe boss can only be killed\n with the Red Crystal weapon\n\n
+
+
+
+The god enprisioned within spoke to them, telling them about vast cities of concrete
+Some went mad, mutilating their own bodies in service of the god
+Three oculus stones if raw concrete were carefully shaped to channel the energy of the sun - and finally set the god free from its meteorite shell
+Before the project could be completed, rebels slaughtered the cult and put locks on the final oculus.
+
+
+
+
+\n\n Align and fire at the sun\n through the opening in the\n three pillars to destroy\n the crystal \n\n
