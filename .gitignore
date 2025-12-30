@@ -9,6 +9,7 @@ qbj3_milestone
 qbj3_milestone.zip
 *.pts
 /maps/autosave
+etc/wad
 sound/swarmer/sight3.wav
 sound/swarmer/sight2.wav
 sound/swarmer/sight1.wav
