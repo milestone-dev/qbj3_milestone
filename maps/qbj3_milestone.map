@@ -3,7 +3,7 @@
 // entity 0
 {
 "mapversion" "220"
-"wad" "C:\QuakeDev\wads\makkon_urbaninterior.wad;C:\QuakeDev\wads\makkon_concrete.wad;C:\QuakeDev\wads\makkon_foliage.wad;C:\QuakeDev\wads\makkon_industrial.wad;C:\QuakeDev\wads\makkon_nature.wad;C:\QuakeDev\wads\milestone_utils.wad;C:/QuakeDev/wads/makkon_liquid.wad;C:\QuakeDev\wads\milestone_qbj3.wad;C:\QuakeDev\wads\makkon_stone.wad"
+"wad" "C:\QuakeDev\wads\makkon_urbaninterior.wad;C:\QuakeDev\wads\makkon_concrete.wad;C:\QuakeDev\wads\makkon_foliage.wad;C:\QuakeDev\wads\milestone_utils.wad;C:/QuakeDev/wads/makkon_liquid.wad;C:\QuakeDev\wads\milestone_qbj3.wad;"
 "classname" "worldspawn"
 "_tb_mod" "mod_qbj3dev"
 "_tb_def" "external:C:/QuakeDev/mod_qbj3dev/qbj3.fgd"
@@ -15860,7 +15860,6 @@
 "origin" "1872 -4400 3160"
 "angle" "180"
 "target" "p002b"
-"target2" ""
 }
 // entity 11
 {
@@ -42919,7 +42918,6 @@
 "origin" "1920 -3744 2888"
 "angle" "270"
 "target" "map_start"
-"target2" ""
 "fog_color" "255 255 255"
 "fog_sky" "0.11"
 "fog_density" "0.0025"
@@ -51760,7 +51758,7 @@
 "origin" "872 -3960 4104"
 "targetname" "progress_counter"
 "killtarget" "hint_pillars"
-"message" ""
+"spawnflags" "1"
 }
 // entity 1490
 {
