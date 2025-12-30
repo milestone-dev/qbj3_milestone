@@ -43228,7 +43228,7 @@
 "origin" "3360 -5200 4128"
 "angle" "180"
 "targetname" "m0001"
-"spawnflags" "400"
+"spawnflags" "912"
 "rand" "5"
 "netname" "m0001_instance"
 }
